@@ -1,6 +1,9 @@
 ### 👋 PLJE
-> I'm majoring in Computer Science Engineering    
-> 
+- I'm majoring in Computer Science Engineering    
+
+### 🌱 I'm currently learning
+- React , NodeJS , ExpressJS , MongoDB
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPLJE)](https://hits.seeyoufarm.com)                
 <table><tr>
 <td valign="top" width="50%">
@@ -11,9 +14,5 @@
 </tr></table> 
 
 
-### Baekjoon
+### :scroll: Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndms2544)](https://solved.ac/dlwndms2544)
-
-### 🌱 I'm currently learning
-- React , NodeJS , ExpressJS , MongoDB
-
