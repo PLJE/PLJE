@@ -1,7 +1,5 @@
 ### 👋 PLJE
-> I'm majoring in Computer Science Engineering   
-> 
-> Junior Web, App developer   
+> I'm majoring in Computer Science Engineering    
 > 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPLJE)](https://hits.seeyoufarm.com)                
 <table><tr>
