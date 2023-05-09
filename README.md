@@ -16,3 +16,5 @@ React, Typesciprt, NodeJs, C++, Java, Python
 
 ### :scroll: Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndms2544)](https://solved.ac/dlwndms2544)
+
+<a href = "https://sites.google.com/view/gdeveloperskorea/gdsc"> <img alt="GDSC" src ="https://img.shields.io/badge/GDSC-4285F4.svg?&style=flat-square&logo=Google&logoColor=white"/></a>
