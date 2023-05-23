@@ -9,10 +9,6 @@ React, Typescript, NodeJs, C++, Javascript, Python
 <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=PLJE&show_icons=true&count_private=true&hide_border=true" style="height: 150px" /></td>
 
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLJE&hide_border=true&layout=compact" style="height: 150px" /></td>
-</tr></table> 
-
 
 ### :scroll: Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndms2544)](https://solved.ac/dlwndms2544)
